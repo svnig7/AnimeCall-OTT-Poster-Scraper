@@ -181,7 +181,7 @@ python posters/mxplayer.py "https://www.mxplayer.in/show/..."
 4. OTT metadata extraction
 5. Content cataloging systems
 
-⚖️ Disclaimer
+## ⚖️ Disclaimer
 [!WARNING]
 
 Educational Purposes Only: This project is developed strictly for educational, research, and personal automation purposes.
