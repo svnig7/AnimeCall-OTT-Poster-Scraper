@@ -10,7 +10,7 @@ from Crypto.Hash import MD5
 
 router = APIRouter()
 
-PASSWORD = "netflix-metadata-secret-key-2024"
+PASSWORD = "Aryan_Hijra_2026ka"
 
 
 # ---------------- CRYPTO HELPERS ----------------
